@@ -5,29 +5,30 @@ windows 重装应用主要集中在可用性上，以最小使用单位为主，
 
 ## 文档处理类
 
-|                         名称                         | 需要安装(是/否) | 配置文件 |     备注     |
-| :--------------------------------------------------: | :-------------: | :------: | :----------: |
-|       [office](https://www.office.com/?auth=1)       |       是        |          |  office2016  |
-| [CAJViewer](http://cajviewer.cnki.net/download.html) |       是        |          | CAJViewer7.2 |
-|   [mathtype](https://www.mathtype.cn/xiazai.html)    |       是        |          | mathtype6.9  |
+|                           名称                            | 需要安装 |  配置文件  |     备注     |
+| :-------------------------------------------------------: | :------: | :--------: | :----------: |
+|         [office](https://www.office.com/?auth=1)          | &radic;  |            |  office2016  |
+|   [CAJViewer](http://cajviewer.cnki.net/download.html)    | &radic;  |            | CAJViewer7.2 |
+|      [mathtype](https://www.mathtype.cn/xiazai.html)      | &radic;  |            | mathtype6.9  |
+| [notpad3](https://www.rizonesoft.com/downloads/notepad3/) |          | config.zip |              |
 
 ## 通讯类
 
-|              名称              | 需要安装(是/否) | 配置文件 | 备注  |
-| :----------------------------: | :-------------: | :------: | :---: |
-| [QQ](https://im.qq.com/pcqq/)  |       是        |    无    |       |
-| [微信](https://weixin.qq.com/) |       是        |    无    |       |
+|              名称              | 需要安装 | 配置文件 | 备注  |
+| :----------------------------: | :------: | :------: | :---: |
+| [QQ](https://im.qq.com/pcqq/)  | &radic;  |          |       |
+| [微信](https://weixin.qq.com/) | &radic;  |          |       |
 
 ## 浏览器相关类
 
-|                   名称                   | 需要安装(是/否) | 配置文件 | 备注  |
-| :--------------------------------------: | :-------------: | :------: | :---: |
-| [Chrome](https://www.google.com/chrome/) |       是        |  可同步  |       |
+|                   名称                   | 需要安装 | 配置文件 | 备注  |
+| :--------------------------------------: | :------: | :------: | :---: |
+| [Chrome](https://www.google.com/chrome/) | &radic;  |  可同步  |       |
 
 ## 工具类
 
-|                          名称                           | 需要安装(是/否) |  配置文件   |               备注                |
-| :-----------------------------------------------------: | :-------------: | :---------: | :-------------------------------: |
-|     [Banizip](https://www.bandisoft.com/bandizip/)      |       是        | setting.reg |            Banizip6.27            |
-|           [winrar](http://www.winrar.com.cn/)           |       是        |             | winrar5.71 |
-| [geekuninstaller](https://geekuninstaller.com/download) |       否        |             |                                   |
+|                          名称                           | 需要安装 |  配置文件   |    备注     |
+| :-----------------------------------------------------: | :------: | :---------: | :---------: |
+|     [Banizip](https://www.bandisoft.com/bandizip/)      | &radic;  | setting.reg | Banizip6.27 |
+|           [winrar](http://www.winrar.com.cn/)           | &radic;  |             | winrar5.71  |
+| [geekuninstaller](https://geekuninstaller.com/download) |          |             |             |
