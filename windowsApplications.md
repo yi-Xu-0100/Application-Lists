@@ -13,14 +13,16 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |       [CAJViewer](http://cajviewer.cnki.net/download.html)        | &radic;  |            | CAJViewer7.2 |
 |          [mathtype](https://www.mathtype.cn/xiazai.html)          | &radic;  |            | mathtype6.9  |
 |     [notpad3](https://www.rizonesoft.com/downloads/notepad3/)     |          | config.zip |              |
+|               [为知笔记](https://www.wiz.cn/zh-cn/)               | &radic;  |            |              |
 
 ## 通讯类
 
-|                 名称                  | 需要安装 | 配置文件 | 备注  |
-| :-----------------------------------: | :------: | :------: | :---: |
-|     [QQ](https://im.qq.com/pcqq/)     | &radic;  |          |       |
-|    [微信](https://weixin.qq.com/)     | &radic;  |          |       |
-| [telegram](https://telegram.org/apps) | &radic;  |          |       |
+|                    名称                    | 需要安装 | 配置文件 | 备注  |
+| :----------------------------------------: | :------: | :------: | :---: |
+| [Tim](https://office.qq.com/download.html) | &radic;  |          |       |
+|       [QQ](https://im.qq.com/pcqq/)        | &radic;  |          |       |
+|       [微信](https://weixin.qq.com/)       | &radic;  |          |       |
+|   [telegram](https://telegram.org/apps)    | &radic;  |          |       |
 
 ## 浏览器相关类
 
@@ -42,3 +44,15 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |       [FormatFactory](http://www.pcfreetime.com/formatfactory/CN/index.html)       |          |              |             |
 | [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases) |          |   CFW.txt    |             |
 |                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |     pac      |             |
+|                         [QQ 影音](https://player.qq.com/)                          | &radic;  |              |             |
+|            [CopyTranslator](https://copytranslator.github.io/download/)            |          |              |             |
+
+## 编程相关类
+
+|                                                   名称                                                    | 需要安装 | 配置文件 |      备注      |
+| :-------------------------------------------------------------------------------------------------------: | :------: | :------: | :------------: |
+|                                      [Putty](https://www.putty.org/)                                      |          |          |                |
+|                [Terminal](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)                | &radic;  |          |                |
+| [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) | &radic;  |          |   VMWPro15.0   |
+|            [Origin Pro](https://www.originlab.com/index.aspx?%20go=DOWNLOADS/OriginEvaluation)            | &radic;  |          |  OriginPro9.0  |
+|                   [Solidworks](https://www.solidworks.com.cn/sw/support/downloads.htm)                    | &radic;  |          | Solidworks2019 |
