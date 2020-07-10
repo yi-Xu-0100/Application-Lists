@@ -1,7 +1,13 @@
-
 # windows 必备应用列表
 
 windows 应用有很多，主要分为两类，**便携式的**和**待安装的**。
+
+- [文档类](#文档类)
+- [通讯类](#通讯类)
+- [浏览器类](#浏览器类)
+- [工具类](#工具类)
+- [编程类](#编程类)
+- [生活类](#生活类)
 
 ## 文档类
 
@@ -29,8 +35,8 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 |                                名称                                | 需要安装 |  配置文件   | 备注  |
 | :----------------------------------------------------------------: | :------: | :---------: | :---: |
-|              [Chrome](https://www.google.com/chrome/)              | &radic;  |   账号同步    |
-| [Edge-dev](https://www.microsoft.com/en-us/edge/business/download) | &radic;  |   账号同步    |
+|              [Chrome](https://www.google.com/chrome/)              | &radic;  |  账号同步   |
+| [Edge-dev](https://www.microsoft.com/en-us/edge/business/download) | &radic;  |  账号同步   |
 |   [soulsign-chrome](https://github.com/inu1255/soulsign-chrome)    | &radic;  | script.json |
 
 ## 工具类
@@ -38,7 +44,7 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |                                        名称                                        | 需要安装 |   配置文件   |    备注     |
 | :--------------------------------------------------------------------------------: | :------: | :----------: | :---------: |
 |                        [Snipaste](https://zh.snipaste.com/)                        | &radic;  | Snipaste.txt |
-|                    [天若 OCR 文字识别](https://tianruoocr.cn/)                     | &radic;  |    账号同步    |
+|                    [天若 OCR 文字识别](https://tianruoocr.cn/)                     | &radic;  |   账号同步   |
 |     [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)      | &radic;  |  config.ini  |
 |                   [Banizip](https://www.bandisoft.com/bandizip/)                   | &radic;  | setting.reg  | Banizip6.27 |
 |                        [winrar](http://www.winrar.com.cn/)                         | &radic;  |              | winrar5.71  |
