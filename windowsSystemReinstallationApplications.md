@@ -10,11 +10,11 @@ windows 重装应用主要集中在可用性上，以最小使用单位为主，
 
 ## 文档处理类
 
-|                           名称                            | 需要安装 |                                              配置文件                                               |                                                  备注                                                   |
-| :-------------------------------------------------------: | :------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|         [office](https://www.office.com/?auth=1)          | &radic;  |                                                                                                     |                                               office2016                                                |
-|   [CAJViewer](http://cajviewer.cnki.net/download.html)    | &radic;  |                                                                                                     |                                              CAJViewer7.2                                               |
-|      [mathtype](https://www.mathtype.cn/xiazai.html)      | &radic;  |                                                                                                     |                                               mathtype6.9                                               |
+|                            名称                            | 需要安装 |                                              配置文件                                               |                                                  备注                                                   |
+| :--------------------------------------------------------: | :------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|          [office](https://www.office.com/?auth=1)          | &radic;  |                                                                                                     |                                               office2016                                                |
+|    [CAJViewer](http://cajviewer.cnki.net/download.html)    | &radic;  |                                                                                                     |                                              CAJViewer7.2                                               |
+|      [mathtype](https://www.mathtype.cn/xiazai.html)       | &radic;  |                                                                                                     |                                               mathtype6.9                                               |
 | [Notepad3](https://www.rizonesoft.com/downloads/notepad3/) |          | [Notepad3 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/Notepad3) | [Notepad3 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#notepad3) |
 
 ## 通讯类
@@ -32,8 +32,8 @@ windows 重装应用主要集中在可用性上，以最小使用单位为主，
 
 ## 工具类
 
-|                          名称                           | 需要安装 |  配置文件   |    备注     |
-| :-----------------------------------------------------: | :------: | :---------: | :---------: |
+|                          名称                           | 需要安装 |                                               配置文件                                                |                                                 备注                                                  |
+| :-----------------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 |     [Banizip](https://www.bandisoft.com/bandizip/)      | &radic;  | [Banizip 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/Banizip.reg) | [Banizip 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#Banizip) |
-|           [winrar](http://www.winrar.com.cn/)           | &radic;  |             | winrar5.71  |
+|           [winrar](http://www.winrar.com.cn/)           | &radic;  |                                                                                                       |                                              winrar5.71                                               |
 | [geekuninstaller](https://geekuninstaller.com/download) |
