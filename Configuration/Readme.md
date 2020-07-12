@@ -4,6 +4,7 @@
   - [themes](#themes)
   - [Register right-click menu.reg](#register-right-click-menureg)
 - [Banizip.reg](#banizipreg)
+- [SumatraPDF.txt](#sumatrapdftxt)
 
 ## Notepad3
 
@@ -24,3 +25,7 @@ Windows 的注册表文件，用于给 Notepad3 注册单文件右键打开选�
 [Banizip6.27](https://www.bandisoft.com/bandizip/old/6/) 的配置文件。
 
 备注：Banizip 在 7.x 后有广告，故配置文件中默认选择**不接受更新通知**。
+
+## SumatraPDF.txt
+
+SumatraPDF 的配置文件。

@@ -11,16 +11,16 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 ## 文档类
 
-|                                     名称                                     | 需要安装 |                                              配置文件                                               |                                                  备注                                                   |
-| :--------------------------------------------------------------------------: | :------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|                                     名称                                     | 需要安装 |                                                  配置文件                                                   |                                                      备注                                                      |
+| :--------------------------------------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 |      [福昕 PDF 编辑器企业版](https://www.foxitsoftware.cn/pdf-editor/)       | &radic;  |
 |                       [mathpix](https://mathpix.com/)                        | &radic;  |
-|                   [office](https://www.office.com/?auth=1)                   | &radic;  |                                                                                                     |                                               office2016                                                |
-|             [CAJViewer](http://cajviewer.cnki.net/download.html)             | &radic;  |                                                                                                     |                                              CAJViewer7.2                                               |
-|               [mathtype](https://www.mathtype.cn/xiazai.html)                | &radic;  |                                                                                                     |                                               mathtype6.9                                               |
-|          [Notepad3](https://www.rizonesoft.com/downloads/notepad3/)          |          | [Notepad3 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/Notepad3) | [Notepad3 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#notepad3) |
-|                    [为知笔记](https://www.wiz.cn/zh-cn/)                     | &radic;  |                                              账号同步                                               |
-| [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) | &radic;  |
+|                   [office](https://www.office.com/?auth=1)                   | &radic;  |                                                                                                             |                                                   office2016                                                   |
+|             [CAJViewer](http://cajviewer.cnki.net/download.html)             | &radic;  |                                                                                                             |                                                  CAJViewer7.2                                                  |
+|               [mathtype](https://www.mathtype.cn/xiazai.html)                | &radic;  |                                                                                                             |                                                  mathtype6.9                                                   |
+|          [Notepad3](https://www.rizonesoft.com/downloads/notepad3/)          |          |     [Notepad3 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/Notepad3)     |    [Notepad3 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#notepad3)     |
+|                    [为知笔记](https://www.wiz.cn/zh-cn/)                     | &radic;  |                                                  账号同步                                                   |
+| [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) | &radic;  | [SumatraPDF 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/SumatraPDF.txt) | [SumatraPDF 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#SumatraPDFtxt) |
 
 ## 通讯类
 
