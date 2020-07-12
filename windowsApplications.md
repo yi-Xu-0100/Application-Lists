@@ -11,15 +11,15 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 ## 文档类
 
-|                                     名称                                     | 需要安装 |  配置文件  |     备注     |
-| :--------------------------------------------------------------------------: | :------: | :--------: | :----------: |
+|                                     名称                                     | 需要安装 |                                              配置文件                                               |                                                  备注                                                   |
+| :--------------------------------------------------------------------------: | :------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 |      [福昕 PDF 编辑器企业版](https://www.foxitsoftware.cn/pdf-editor/)       | &radic;  |
 |                       [mathpix](https://mathpix.com/)                        | &radic;  |
-|                   [office](https://www.office.com/?auth=1)                   | &radic;  |            |  office2016  |
-|             [CAJViewer](http://cajviewer.cnki.net/download.html)             | &radic;  |            | CAJViewer7.2 |
-|               [mathtype](https://www.mathtype.cn/xiazai.html)                | &radic;  |            | mathtype6.9  |
-|          [notpad3](https://www.rizonesoft.com/downloads/notepad3/)           |          | config.zip |
-|                    [为知笔记](https://www.wiz.cn/zh-cn/)                     | &radic;  |
+|                   [office](https://www.office.com/?auth=1)                   | &radic;  |                                                                                                     |                                               office2016                                                |
+|             [CAJViewer](http://cajviewer.cnki.net/download.html)             | &radic;  |                                                                                                     |                                              CAJViewer7.2                                               |
+|               [mathtype](https://www.mathtype.cn/xiazai.html)                | &radic;  |                                                                                                     |                                               mathtype6.9                                               |
+|          [Notepad3](https://www.rizonesoft.com/downloads/notepad3/)          |          | [Notepad3 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/Notepad3) | [Notepad3 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#notepad3) |
+|                    [为知笔记](https://www.wiz.cn/zh-cn/)                     | &radic;  |                                              账号同步                                               |
 | [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) | &radic;  |
 
 ## 通讯类
@@ -41,17 +41,17 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 ## 工具类
 
-|                                        名称                                        | 需要安装 |   配置文件   |    备注     |
-| :--------------------------------------------------------------------------------: | :------: | :----------: | :---------: |
-|                        [Snipaste](https://zh.snipaste.com/)                        | &radic;  | Snipaste.txt |
-|                    [天若 OCR 文字识别](https://tianruoocr.cn/)                     | &radic;  |   账号同步   |
-|     [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)      | &radic;  |  config.ini  |
-|                   [Banizip](https://www.bandisoft.com/bandizip/)                   | &radic;  | setting.reg  | Banizip6.27 |
-|                        [winrar](http://www.winrar.com.cn/)                         | &radic;  |              | winrar5.71  |
+|                                        名称                                        | 需要安装 |                                                配置文件                                                |                                                 备注                                                  |
+| :--------------------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+|                        [Snipaste](https://zh.snipaste.com/)                        | &radic;  |                                              Snipaste.txt                                              |
+|                    [天若 OCR 文字识别](https://tianruoocr.cn/)                     | &radic;  |                                                账号同步                                                |
+|     [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)      | &radic;  |                                               config.ini                                               |
+|                   [Banizip](https://www.bandisoft.com/bandizip/)                   | &radic;  | [Banizip 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/Bandizip.reg) | [Banizip 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#Banizip) |
+|                        [winrar](http://www.winrar.com.cn/)                         | &radic;  |                                                                                                        |                                              winrar5.71                                               |
 |              [geekuninstaller](https://geekuninstaller.com/download)               |
 |       [FormatFactory](http://www.pcfreetime.com/formatfactory/CN/index.html)       |
-| [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases) |          |   CFW.txt    |
-|                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |     pac      |
+| [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases) |          |                                                CFW.txt                                                 |
+|                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |                                                  pac                                                   |
 |                         [QQ 影音](https://player.qq.com/)                          | &radic;  |
 |            [CopyTranslator](https://copytranslator.github.io/download/)            |
 
