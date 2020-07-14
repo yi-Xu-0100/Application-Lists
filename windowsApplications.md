@@ -14,7 +14,7 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |                                     名称                                     | 需要安装 |                                                  配置文件                                                   |                                                      备注                                                      |
 | :--------------------------------------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 |      [福昕 PDF 编辑器企业版](https://www.foxitsoftware.cn/pdf-editor/)       | &radic;  |
-|                       [mathpix](https://mathpix.com/)                        | &radic;  |
+|                       [mathpix](https://mathpix.com/)                        | &radic;  |                                                  账号同步                                                   |
 |                   [office](https://www.office.com/?auth=1)                   | &radic;  |                                                                                                             |                                                   office2016                                                   |
 |             [CAJViewer](http://cajviewer.cnki.net/download.html)             | &radic;  |                                                                                                             |                                                  CAJViewer7.2                                                  |
 |               [mathtype](https://www.mathtype.cn/xiazai.html)                | &radic;  |                                                                                                             |                                                  mathtype6.9                                                   |
@@ -26,10 +26,10 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 |                    名称                    | 需要安装 | 配置文件 | 备注  |
 | :----------------------------------------: | :------: | :------: | :---: |
-| [Tim](https://office.qq.com/download.html) | &radic;  |
-|       [QQ](https://im.qq.com/pcqq/)        | &radic;  |
-|       [微信](https://weixin.qq.com/)       | &radic;  |
-|   [telegram](https://telegram.org/apps)    | &radic;  |
+| [Tim](https://office.qq.com/download.html) | &radic;  | 账号同步 |
+|       [QQ](https://im.qq.com/pcqq/)        | &radic;  | 账号同步 |
+|       [微信](https://weixin.qq.com/)       | &radic;  | 账号同步 |
+|   [telegram](https://telegram.org/apps)    | &radic;  | 账号同步 |
 
 ## 浏览器类
 
