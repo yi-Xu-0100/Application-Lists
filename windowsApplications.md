@@ -20,7 +20,7 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |               [mathtype](https://www.mathtype.cn/xiazai.html)                | &radic;  |                                                                                                             |                                                  mathtype6.9                                                   |
 |          [Notepad3](https://www.rizonesoft.com/downloads/notepad3/)          |          |     [Notepad3 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/Notepad3)     |    [Notepad3 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#notepad3)     |
 |                    [为知笔记](https://www.wiz.cn/zh-cn/)                     | &radic;  |                                                  账号同步                                                   |
-| [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) | &radic;  | [SumatraPDF 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/SumatraPDF.txt) | [SumatraPDF 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#SumatraPDFtxt) |
+| [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) | &radic;  | [SumatraPDF 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/SumatraPDF.txt) | [SumatraPDF 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#sumatrapdftxt) |
 
 ## 通讯类
 
