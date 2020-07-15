@@ -5,6 +5,7 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 - [文档类](#文档类)
 - [通讯类](#通讯类)
 - [浏览器类](#浏览器类)
+- [浏览器插件类](#浏览器插件类)
 - [工具类](#工具类)
 - [编程类](#编程类)
 - [生活类](#生活类)
@@ -33,11 +34,27 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 ## 浏览器类
 
-|                                名称                                | 需要安装 |  配置文件   | 备注  |
-| :----------------------------------------------------------------: | :------: | :---------: | :---: |
-|              [Chrome](https://www.google.com/chrome/)              | &radic;  |  账号同步   |
-| [Edge-dev](https://www.microsoft.com/en-us/edge/business/download) | &radic;  |  账号同步   |
-|   [soulsign-chrome](https://github.com/inu1255/soulsign-chrome)    | &radic;  | script.json |
+|                                名称                                | 需要安装 | 配置文件 | 备注  |
+| :----------------------------------------------------------------: | :------: | :------: | :---: |
+|              [Chrome](https://www.google.com/chrome/)              | &radic;  | 账号同步 |
+| [Edge-dev](https://www.microsoft.com/en-us/edge/business/download) | &radic;  | 账号同步 |
+
+## 浏览器插件类
+
+|                                                                 名称                                                                  | 需要安装 |                           配置文件                            |                                                    备注                                                    |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|                                     [soulsign-chrome](https://github.com/inu1255/soulsign-chrome)                                     | &radic;  | [个人开发脚本安装地址](https://soulsign.inu1255.cn/?uid=1176) | [开发者版](https://github.com/inu1255/soulsign-chrome)<br>[公共脚本发布平台](https://soulsign.inu1255.cn/) |
+| [OneTab Plus: 标签效率管理扩展](https://chrome.google.com/webstore/detail/onetab-plustab-manage-pro/lepdjbhbkpfenckechpdfohdmkhogojf) | &radic;  |
+|              [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)               | &radic;  |
+|                 [Get Favicon](https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe)                 | &radic;  |
+|                                             [Tampermonkey](https://www.tampermonkey.net/)                                             | &radic;  |                       tampermonkey.zip                        |
+|                                          [GiteeTree](https://gitee.com/oschina/GitCodeTree)                                           | &radic;  |
+|                                                  [简悦](http://ksria.com/simpread/)                                                   | &radic;  |                            云同步                             |
+|             [简码](https://microsoftedge.microsoft.com/addons/detail/%E7%AE%80%E7%A0%81/dpgjdomgklccodklkokapnaehbocnmfo)             | &radic;  |
+|                                      [Infinity 新标签页 (Pro)](https://www.infinitynewtab.com/)                                       | &radic;  |                           账号同步                            |
+|                                        [pakku 哔哩哔哩弹幕过滤器](https://s.xmcp.ml/pakkujs/)                                         | &radic;  |                          pakku.json                           |
+|                                                [Stylus](https://add0n.com/stylus.html)                                                | &radic;  |
+|                                               [广告终结者](https://www.adtchrome.com/)                                                | &radic;  |
 
 ## 工具类
 
