@@ -5,6 +5,7 @@
   - [Register right-click menu.reg](#register-right-click-menureg)
 - [Banizip.reg](#banizipreg)
 - [SumatraPDF.txt](#sumatrapdftxt)
+- [pakku.json](#pakkujson)
 
 ## Notepad3
 
@@ -29,3 +30,7 @@ Windows 的注册表文件，用于给 Notepad3 注册单文件右键打开选�
 ## SumatraPDF.txt
 
 SumatraPDF 的配置文件。
+
+## pakku.json
+
+pakku 哔哩哔哩弹幕过滤器 的配置文件。
