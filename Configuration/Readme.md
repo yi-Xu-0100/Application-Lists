@@ -33,4 +33,4 @@ SumatraPDF 的配置文件。
 
 ## pakku.json
 
-pakku 哔哩哔哩弹幕过滤器 的配置文件。
+pakku 的配置文件。
