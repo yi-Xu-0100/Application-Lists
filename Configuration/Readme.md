@@ -6,6 +6,7 @@
 - [Banizip.reg](#banizipreg)
 - [SumatraPDF.txt](#sumatrapdftxt)
 - [pakku.json](#pakkujson)
+- [tampermonkey.zip](#tampermonkeyzip)
 
 ## Notepad3
 
@@ -34,3 +35,7 @@ SumatraPDF 的配置文件。
 ## pakku.json
 
 pakku 的配置文件。
+
+## tampermonkey.zip
+
+tampermonkey 的配置文件。
