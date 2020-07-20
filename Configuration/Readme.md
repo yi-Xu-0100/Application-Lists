@@ -7,6 +7,7 @@
 - [SumatraPDF.txt](#sumatrapdftxt)
 - [pakku.json](#pakkujson)
 - [tampermonkey.zip](#tampermonkeyzip)
+- [stylus.json](#stylusjson)
 
 ## Notepad3
 
@@ -39,3 +40,7 @@ pakku 的配置文件。
 ## tampermonkey.zip
 
 tampermonkey 的配置文件。
+
+## stylus.json
+
+stylus 的配置文件。

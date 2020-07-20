@@ -53,7 +53,7 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |             [简码](https://microsoftedge.microsoft.com/addons/detail/%E7%AE%80%E7%A0%81/dpgjdomgklccodklkokapnaehbocnmfo)             | &radic;  |
 |                                      [Infinity 新标签页 (Pro)](https://www.infinitynewtab.com/)                                       | &radic;  |                                                      账号同步                                                       |
 |                                        [pakku 哔哩哔哩弹幕过滤器](https://s.xmcp.ml/pakkujs/)                                         | &radic;  |         [pakku 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/pakku.json)          |         [pakku 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#pakkujson)          |
-|                                                [Stylus](https://add0n.com/stylus.html)                                                | &radic;  |
+|                                                [Stylus](https://add0n.com/stylus.html)                                                | &radic;  |        [Stylus 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/stylus.json)         |        [Stylus 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#stylusjson)         |
 |                                               [广告终结者](https://www.adtchrome.com/)                                                | &radic;  |
 
 ## 工具类
