@@ -8,6 +8,7 @@
 - [pakku.json](#pakkujson)
 - [tampermonkey.zip](#tampermonkeyzip)
 - [stylus.json](#stylusjson)
+- [snipaste.ini](#snipasteini)
 
 ## Notepad3
 
@@ -44,3 +45,7 @@ tampermonkey 的配置文件。
 ## stylus.json
 
 stylus 的配置文件。
+
+## snipaste.ini
+
+snipaste 的配置文件。
