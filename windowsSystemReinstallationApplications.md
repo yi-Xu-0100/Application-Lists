@@ -32,8 +32,8 @@ windows 重装应用主要集中在可用性上，以最小使用单位为主，
 
 ## 工具类
 
-|                          名称                           | 需要安装 |                                                配置文件                                                |                                                 备注                                                  |
-| :-----------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-|     [Banizip](https://www.bandisoft.com/bandizip/)      | &radic;  | [Banizip 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/Bandizip.reg) | [Banizip 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#Banizip) |
-|           [winrar](http://www.winrar.com.cn/)           | &radic;  |                                                                                                        |                                              winrar5.71                                               |
+|                          名称                           | 需要安装 |                                                配置文件                                                |                                                   备注                                                   |
+| :-----------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|     [Banizip](https://www.bandisoft.com/bandizip/)      | &radic;  | [Banizip 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/Bandizip.reg) | [Banizip 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#banizipreg) |
+|           [winrar](http://www.winrar.com.cn/)           | &radic;  |                                                                                                        |                                                winrar5.71                                                |
 | [geekuninstaller](https://geekuninstaller.com/download) |
