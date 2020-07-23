@@ -9,6 +9,7 @@
 - [tampermonkey.zip](#tampermonkeyzip)
 - [stylus.json](#stylusjson)
 - [snipaste.ini](#snipasteini)
+- [TrafficMonitor](#trafficmonitor)
 
 ## Notepad3
 
@@ -49,3 +50,7 @@ stylus 的配置文件。
 ## snipaste.ini
 
 snipaste 的配置文件。
+
+## TrafficMonitor
+
+TrafficMonitor 的配置文件。

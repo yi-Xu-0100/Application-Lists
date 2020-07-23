@@ -58,17 +58,17 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 
 ## 工具类
 
-|                                        名称                                        | 需要安装 |                                                配置文件                                                 |                                                    备注                                                    |
-| :--------------------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|                        [Snipaste](https://zh.snipaste.com/)                        | &radic;  | [Snipaste 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/snipaste.ini) | [Snipaste 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#snipasteini) |
-|                    [天若 OCR 文字识别](https://tianruoocr.cn/)                     | &radic;  |                                                账号同步                                                 |
-|     [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)      | &radic;  |                                               config.ini                                                |
-|                   [Banizip](https://www.bandisoft.com/bandizip/)                   | &radic;  | [Banizip 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/Bandizip.reg)  |  [Banizip 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#banizipreg)  |
-|                        [winrar](http://www.winrar.com.cn/)                         | &radic;  |                                                                                                         |                                                 winrar5.71                                                 |
+|                                        名称                                        | 需要安装 |                                                    配置文件                                                     |                                                        备注                                                         |
+| :--------------------------------------------------------------------------------: | :------: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|                        [Snipaste](https://zh.snipaste.com/)                        | &radic;  |     [Snipaste 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/snipaste.ini)     |     [Snipaste 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#snipasteini)      |
+|                    [天若 OCR 文字识别](https://tianruoocr.cn/)                     | &radic;  |                                                    账号同步                                                     |
+|     [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)      | &radic;  | [TrafficMonitor 配置](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration/TrafficMonitor) | [TrafficMonitor 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#TrafficMonitor) |
+|                   [Banizip](https://www.bandisoft.com/bandizip/)                   | &radic;  |     [Banizip 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/Bandizip.reg)      |      [Banizip 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#banizipreg)       |
+|                        [winrar](http://www.winrar.com.cn/)                         | &radic;  |                                                                                                                 |                                                     winrar5.71                                                      |
 |              [geekuninstaller](https://geekuninstaller.com/download)               |
 |       [FormatFactory](http://www.pcfreetime.com/formatfactory/CN/index.html)       |
-| [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases) |          |                                                 CFW.txt                                                 |
-|                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |                                                   pac                                                   |
+| [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases) |          |                                                     CFW.txt                                                     |
+|                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |                                                       pac                                                       |
 |                         [QQ 影音](https://player.qq.com/)                          | &radic;  |
 |            [CopyTranslator](https://copytranslator.github.io/download/)            |
 
