@@ -68,7 +68,7 @@ windows 应用有很多，主要分为两类，**便携式的**和**待安装的
 |              [geekuninstaller](https://geekuninstaller.com/download)               |
 |       [FormatFactory](http://www.pcfreetime.com/formatfactory/CN/index.html)       |
 | [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg/releases) |          |                                                     CFW.txt                                                     |
-|                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |       [v2rayN 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/v2rayN.txt)       |       [v2rayN 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration##v2rayntxt)        |
+|                 [v2rayN](https://github.com/2dust/v2rayN/releases)                 |          |       [v2rayN 配置](https://github.com/yi-Xu-0100/Application-Lists/blob/master/Configuration/v2rayN.txt)       |       [v2rayN 配置说明](https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#v2rayntxt)        |
 |                         [QQ 影音](https://player.qq.com/)                          | &radic;  |
 |            [CopyTranslator](https://copytranslator.github.io/download/)            |
 
