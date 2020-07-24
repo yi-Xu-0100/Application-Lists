@@ -10,6 +10,7 @@
 - [stylus.json](#stylusjson)
 - [snipaste.ini](#snipasteini)
 - [TrafficMonitor](#trafficmonitor)
+- [v2rayN.txt](#v2rayntxt)
 
 ## Notepad3
 
@@ -54,3 +55,7 @@ snipaste 的配置文件。
 ## TrafficMonitor
 
 TrafficMonitor 的配置文件。
+
+## v2rayN.txt
+
+v2rayN 中设置的个人自定义 pac 配置。
