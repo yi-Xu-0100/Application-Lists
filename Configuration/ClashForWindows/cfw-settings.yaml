@@ -1,0 +1,21 @@
+proxyOrder: 1
+profileParsersText: |-
+  parsers:
+    - url: https://www.example.com
+      file: 'D:/Applications/parser.js'
+selectAfterUpdated: true
+headersText: |
+  headers: # object
+mixinCode: |-
+  module.exports.parse = ({ content, name, url }, { yaml, axios, notify }) => {
+    return content
+  }
+mixinText: |
+  mixin: # object
+showNotifications: true
+theme: 0
+systemTheme: true
+latencyUrl: https://github.com/
+connProxy: 0
+connProfile: true
+connMode: false

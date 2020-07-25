@@ -11,6 +11,7 @@
 - [snipaste.ini](#snipasteini)
 - [TrafficMonitor](#trafficmonitor)
 - [v2rayN.txt](#v2rayntxt)
+- [ClashForWindows](#clashforwindows)
 
 ## Notepad3
 
@@ -59,3 +60,8 @@ TrafficMonitor 的配置文件。
 ## v2rayN.txt
 
 v2rayN 中设置的个人自定义 pac 配置。
+
+## ClashForWindows
+
+ClashForWindows 的部分个人配置包含一个配置脚本预处理方法。
+**注意：** 修改配置中的配置订阅链接
