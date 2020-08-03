@@ -12,6 +12,7 @@
 - [TrafficMonitor](#trafficmonitor)
 - [v2rayN.txt](#v2rayntxt)
 - [ClashForWindows](#clashforwindows)
+- [neatdownloadmanager.json](#neatdownloadmanagerjson)
 
 ## Notepad3
 
@@ -64,4 +65,9 @@ v2rayN 中设置的个人自定义 pac 配置。
 ## ClashForWindows
 
 ClashForWindows 的部分个人配置包含一个配置脚本预处理方法。
+
 **注意：** 修改配置中的配置订阅链接
+
+## neatdownloadmanager.json
+
+neatdownloadmanager 的 menifest.json 文件，用于不在哔哩哔哩网站上显示下载图标。
