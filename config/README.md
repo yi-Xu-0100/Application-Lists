@@ -1,5 +1,6 @@
-# 配置内容介绍
+## 配置内容介绍
 
+- [配置内容介绍](#配置内容介绍)
 - [Notepad3](#notepad3)
   - [themes](#themes)
   - [Register right-click menu.reg](#register-right-click-menureg)
@@ -20,7 +21,7 @@
 
 内容是 Notepad3 的主题配色配置文件。
 
-来源：[maboroshin](https://github.com/maboroshin) 创作的 [Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme)。
+来源： [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme)。
 
 ### Register right-click menu.reg
 
@@ -30,7 +31,7 @@ Windows 的注册表文件，用于给 Notepad3 注册单文件右键打开选�
 
 ## Banizip.reg
 
-[Banizip6.27](https://www.bandisoft.com/bandizip/old/6/) 的配置文件。
+[Banizip6.29](https://www.bandisoft.com/bandizip/old/6/) 的配置文件。
 
 备注：Banizip 在 7.x 后有广告，故配置文件中默认选择**不接受更新通知**。
 
@@ -64,9 +65,9 @@ v2rayN 中设置的个人自定义 pac 配置。
 
 ## ClashForWindows
 
-ClashForWindows 的部分个人配置包含一个配置脚本预处理方法。
+ClashForWindows 的部分个人配置和配置预处理方法脚本。
 
-**注意：** 修改配置中的配置订阅链接
+**注意：** 正则匹配请自行修改适配
 
 ## neatdownloadmanager.json
 

@@ -1,21 +1,81 @@
-proxyOrder: 1
+proxyOrder: 0
 profileParsersText: |-
   parsers:
-    - url: https://www.example.com
-      file: 'D:/Applications/parser.js'
+    - reg: https://.+$
+      #yaml: 
+      #  prepend-rules:
+      #    - DOMAIN-SUFFIX,manhuabudang.com,DIRECT
+      #    - DOMAIN-SUFFIX,v2ex.com,DIRECT
+      #    - DOMAIN-SUFFIX,osapublishing.org,Proxies
+      #    - DOMAIN-SUFFIX,phicomm.me,DIRECT
+      file: 'D:/Applications/changeRule.js'
+    # - reg: https://.+$
+      # yaml:
+      #   mix-object:
+      #     mode: Global
 selectAfterUpdated: true
+profilePath: C:\Users\xjy12\.config\clash\profiles
 headersText: |
   headers: # object
 mixinCode: |-
-  module.exports.parse = ({ content, name, url }, { yaml, axios, notify }) => {
-    return content
+  module.exports.parse = ({ content, name, url }, { axios, yaml, notify }) => {
+   const extra = {
+     dns: {
+       enable: true,
+       listen: ':53',
+       nameserver: ['8.8.8.8']
+     }
+   }
+   return { ...content, ...extra }
   }
 mixinText: |
   mixin: # object
 showNotifications: true
 theme: 0
 systemTheme: true
-latencyUrl: https://github.com/
+latencyUrl: http://www.gstatic.com/generate_204
 connProxy: 0
 connProfile: true
 connMode: false
+connKeepOld: false
+bypassText: |
+  bypass:
+    - "translate.google.cn"
+    - "phicomm.me"
+    - localhost
+    - 127.*
+    - 10.*
+    - 172.16.*
+    - 172.17.*
+    - 172.18.*
+    - 172.19.*
+    - 172.20.*
+    - 172.21.*
+    - 172.22.*
+    - 172.23.*
+    - 172.24.*
+    - 172.25.*
+    - 172.26.*
+    - 172.27.*
+    - 172.28.*
+    - 172.29.*
+    - 172.30.*
+    - 172.31.*
+    - 192.168.*
+    - <local>
+mixinType: 1
+interfaceName: 以太网
+showNewVersionIcon: true
+systemProxyTypeIndex: 0
+pacContentText: |-
+  var host = "HP-Pavilion-PC.local:7890";
+  var Socks5 = "SOCKS5 " + host +"; ";
+  var Proxy = "PROXY " + host +"; ";
+  var Direct = "DIRECT; ";
+  function FindProxyForURL(url, host) {
+    return Socks5 + Proxy + Direct;
+  }
+shortcutSystemProxy: ""
+shortcutMixin: ""
+editor: 1
+showProxyFilter: true
