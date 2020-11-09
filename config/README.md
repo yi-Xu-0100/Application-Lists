@@ -1,6 +1,11 @@
 ## 配置内容介绍
 
+所有配置的介绍。
+
+## 目录
+
 - [配置内容介绍](#配置内容介绍)
+- [目录](#目录)
 - [Notepad3](#notepad3)
   - [themes](#themes)
   - [Register right-click menu.reg](#register-right-click-menureg)
