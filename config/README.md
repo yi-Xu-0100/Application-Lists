@@ -1,10 +1,9 @@
-## 配置内容介绍
+# 配置内容介绍
 
 所有配置的介绍。
 
 ## 目录
 
-- [配置内容介绍](#配置内容介绍)
 - [目录](#目录)
 - [Notepad3](#notepad3)
   - [themes](#themes)
@@ -70,7 +69,7 @@ v2rayN 中设置的个人自定义 pac 配置。
 
 ## ClashForWindows
 
-ClashForWindows 的部分个人配置和配置预处理方法脚本。
+ClashForWindows 的个人配置。
 
 **注意：** 正则匹配请自行修改适配
 

@@ -1,19 +1,21 @@
 proxyOrder: 0
-profileParsersText: |-
+profileParsersText: |
   parsers:
-    - reg: https://.+$
-      #yaml: 
-      #  prepend-rules:
-      #    - DOMAIN-SUFFIX,manhuabudang.com,DIRECT
-      #    - DOMAIN-SUFFIX,v2ex.com,DIRECT
-      #    - DOMAIN-SUFFIX,osapublishing.org,Proxies
-      #    - DOMAIN-SUFFIX,phicomm.me,DIRECT
-      file: 'D:/Applications/changeRule.js'
-    # - reg: https://.+$
-      # yaml:
-      #   mix-object:
-      #     mode: Global
-selectAfterUpdated: true
+    # - reg: .*www\.example\.com.*$
+    # - reg: .*example.*q=subscription$
+    - reg: ^((?!www\.example\.com).)*$
+      file: 'D:/Applications/cfw-scripts/scripts/change-keys.js'
+    - reg: ^((?!www\.example\.com).)*$
+      file: 'D:/Applications/cfw-scripts/scripts/change-rules.js'
+    - reg: ^((?!www\.example\.com).)*$
+      file: 'D:/Applications/cfw-scripts/scripts/merge-nodes.js'
+    - reg: ^((?!www\.example\.com).)*$
+      file: 'D:/Applications/cfw-scripts/scripts/change-rules.yml'
+    - reg: ^((?!www\.example\.com).)*$
+      file: 'D:/Applications/cfw-scripts/scripts/subs-info-parser.js'
+    - reg: ^((?!www\.example\.com).)*$
+      file: 'D:/Applications/cfw-scripts/scripts/auto-check-in.js'
+selectAfterUpdated: false
 profilePath: C:\Users\xjy12\.config\clash\profiles
 headersText: |
   headers: # object
@@ -28,8 +30,46 @@ mixinCode: |-
    }
    return { ...content, ...extra }
   }
-mixinText: |
+mixinText: |+
   mixin: # object
+    hosts:
+      'phicomm.me': 192.168.2.1
+    dns:
+      enable: true
+      ipv6: false
+      listen: 0.0.0.0:53
+      enhanced-mode: redir-host
+      use-hosts: true
+      fake-ip-filter:
+        - 'dns.msftncsi.com'
+        - 'www.msftncsi.com'
+        - 'www.msftconnecttest.com'
+        - '+.qq.com'
+        - '+.music.163.com'
+        - '+.music.162.com'
+      default-nameserver:
+        - 119.29.29.29
+        - 114.114.114.114
+        - 8.8.8.8
+      nameserver:
+        - 119.29.29.29
+        - 223.5.5.5
+        - 8.8.8.8
+        - 1.1.1.1
+      fallback:
+        - 'https://1.1.1.1/dns-query'
+        - 'https://162.159.36.1/dns-query'
+        - 'https://162.14.13.12/dns-query'
+        - 'tls://dns.rubyfish.cn:853'
+        - 'tls://1.0.0.1:853'
+        - 'tls://dns.google:853'
+      fallback-filter:
+        geoip: true
+        ipcidr:
+          - 0.0.0.0/32
+          - 127.0.0.0/8
+          - 240.0.0.0/4
+
 showNotifications: true
 theme: 0
 systemTheme: true
@@ -40,8 +80,6 @@ connMode: false
 connKeepOld: false
 bypassText: |
   bypass:
-    - "translate.google.cn"
-    - "phicomm.me"
     - localhost
     - 127.*
     - 10.*
@@ -63,12 +101,12 @@ bypassText: |
     - 172.31.*
     - 192.168.*
     - <local>
-mixinType: 1
+mixinType: 0
 interfaceName: 以太网
 showNewVersionIcon: true
 systemProxyTypeIndex: 0
 pacContentText: |-
-  var host = "HP-Pavilion-PC.local:7890";
+  var host = "127.0.0.1:7890";
   var Socks5 = "SOCKS5 " + host +"; ";
   var Proxy = "PROXY " + host +"; ";
   var Direct = "DIRECT; ";
@@ -79,3 +117,14 @@ shortcutSystemProxy: ""
 shortcutMixin: ""
 editor: 1
 showProxyFilter: true
+shortcutGlobalMode: ""
+shortcutRuleMode: ""
+hideAfterStartup: true
+proxyItemWidth: ""
+childProcessText: |-
+  processes: # array
+    - command: subconverter.exe  # 程序名称
+      options:
+        cwd: D:\Applications\subconverter # 子进程工作目录
+        windowsHide: false
+randomControllerPort: false
