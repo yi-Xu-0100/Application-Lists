@@ -18,6 +18,7 @@
 - [v2rayN.txt](#v2rayntxt)
 - [ClashForWindows](#clashforwindows)
 - [neatdownloadmanager.json](#neatdownloadmanagerjson)
+- [memreduct.ini](#memreductini)
 
 ## Notepad3
 
@@ -76,3 +77,7 @@ ClashForWindows 的个人配置。
 ## neatdownloadmanager.json
 
 neatdownloadmanager 的 menifest.json 文件，用于不在哔哩哔哩网站上显示下载图标。
+
+## memreduct.ini
+
+memreduct 的 个人配置文件。
