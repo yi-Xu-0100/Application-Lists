@@ -1,10 +1,9 @@
-## windows 必备应用列表
+# windows 必备应用列表
 
 windows 必备应用列表是个人重装电脑后会安装的应用。
 
 ## 目录
 
-- [windows 必备应用列表](#windows-必备应用列表)
 - [目录](#目录)
 - [文档类](#文档类)
 - [通讯类](#通讯类)
@@ -77,10 +76,11 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |       [Snipaste]        |    ✔     |    [Snipaste 配置说明]     |      |
 |   [天若 OCR 文字识别]   |    ✔     |          账号同步          |      |
 |    [TrafficMonitor]     |    ✔     | [TrafficMonitor 配置说明]  |      |
-| [clash_for_windows_pkg] |          | [ClashForWindows 配置说明] |      |
+| [clash_for_windows_pkg] |    ✔     | [ClashForWindows 配置说明] |      |
 |        [QQ 影音]        |    ✔     |                            |      |
 |      [网易云音乐]       |    ✔     |          账号同步          |      |
 |       [百度网盘]        |    ✔     |          账号同步          |      |
+|       [memreduct]       |    ✔     |    [memreduct 配置说明]    |      |
 
 [snipaste]: https://zh.snipaste.com/
 [snipaste 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#snipasteini
@@ -92,3 +92,4 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [qq 影音]: https://player.qq.com/
 [网易云音乐]: https://music.163.com/#/download
 [百度网盘]: https://pan.baidu.com/download
+[memreduct 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#memreductini
