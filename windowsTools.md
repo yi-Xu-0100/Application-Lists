@@ -48,6 +48,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 |      [Node.js]       |    ✔     |                   |            |
 |       [Python]       |    ✔     |                   |            |
 |       [v2rayN]       |          | [v2rayN 配置说明] |            |
+|     [everything]     |          |                   |            |
 
 [putty]: https://www.putty.org/
 [terminal]: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
@@ -60,6 +61,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [python]: https://www.python.org/downloads/windows/
 [v2rayn]: https://github.com/2dust/v2rayN/releases
 [v2rayn 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#v2rayntxt
+[everything]: https://www.voidtools.com/zh-cn/
 
 ## 生活娱乐类
 
