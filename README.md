@@ -1,14 +1,14 @@
-## Application lists
+# Application lists
 
 个人使用的应用程序列表，备用和备忘。
 
 ## 目录
 
-- [Application lists](#application-lists)
 - [目录](#目录)
 - [windows 必备应用列表](#windows-必备应用列表)
 - [windows 重装应用列表](#windows-重装应用列表)
 - [windows 普通工具列表](#windows-普通工具列表)
+- [License](#license)
 
 ## windows 必备应用列表
 
@@ -25,3 +25,7 @@
 [windows 必备应用列表]: ./windowsApplications.md
 [windows 重装应用列表]: ./windowsSystemReinstallationApplications.md
 [windows 普通工具列表]: ./windowsTools.md
+
+## License
+
+- [MIT](./LICENSE)
