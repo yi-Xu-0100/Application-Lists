@@ -14,7 +14,7 @@ jobs:
 
       - name: Move docsify configuration
         run: |
-          cp -arfv ./.docsify/* ./docs/
+          cp -arfv ./.docsify/*.* ./docs/
           cp -afv ./README.md ./docs/
           cp -afv ./LICENSE ./docs/
 
