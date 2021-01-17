@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>个人常用软件集合</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="application-lists, 软件列表" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  </head>
+  <body>
+    <div id="app">网页正在努力加载……</div>
+    <script>
+      window.$docsify = {
+        name: '个人常用软件集合',
+        coverpage: false,
+        loadSidebar: true,
+        subMaxLevel: 6,
+        search: {
+          maxAge: 86400000,
+          paths: 'auto',
+          placeholder: '搜索……',
+          noData: '找不到结果!',
+          depth: 6,
+          hideOtherSidebarContent: true
+        },
+        count: {
+          countable: true,
+          fontsize: '0.9em',
+          color: 'rgb(90,90,90)',
+          language: 'chinese'
+        },
+        pagination: {
+          previousText: '上一页',
+          nextText: '下一页',
+          crossChapter: true,
+          crossChapterText: true
+        }
+      };
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  </body>
+</html>
