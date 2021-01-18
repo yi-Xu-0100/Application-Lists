@@ -19,7 +19,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [origin pro]: https://www.originlab.com/index.aspx?%20go=DOWNLOADS/OriginEvaluation
 [solidworks]: https://www.solidworks.com.cn/sw/support/downloads.htm
 [altium designer]: https://www.altium.com/altium-designer/
-[mathpix]: https://mathpix.com/
+[Mathpix Snipping Tool]: https://mathpix.com/
 [noteexpress]: http://www.inoteexpress.com/aegean/index.php/home/ne/index.html
 [zemax]: https://www.zemax.com/
 [sumatrapdf]: https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
