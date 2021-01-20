@@ -19,7 +19,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [origin pro]: https://www.originlab.com/index.aspx?%20go=DOWNLOADS/OriginEvaluation
 [solidworks]: https://www.solidworks.com.cn/sw/support/downloads.htm
 [altium designer]: https://www.altium.com/altium-designer/
-[Mathpix Snipping Tool]: https://mathpix.com/
+[mathpix snipping tool]: https://mathpix.com/
 [noteexpress]: http://www.inoteexpress.com/aegean/index.php/home/ne/index.html
 [zemax]: https://www.zemax.com/
 [sumatrapdf]: https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
@@ -80,3 +80,11 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [chrome]: https://www.google.com/chrome/
 [国内地址]: https://www.google.cn/chrome/
 [formatfactory]: http://www.pcfreetime.com/formatfactory/CN/index.html
+
+## 实用工具类
+
+|     名称      | 需要安装 | 配置文件 | 备注 |
+| :-----------: | :------: | :------: | :--: |
+| [NewFileTime] |          |          |      |
+
+[newfiletime]: http://www.softwareok.com/?Download=NewFileTime
