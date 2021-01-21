@@ -10,16 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.4
 
       - name: Move docsify configuration
         run: |
           cp -arfv ./.docsify/*.* ./docs/
           cp -afv ./README.md ./docs/
+          cp -afv ./config/README.md ./docs/config.md
           cp -afv ./LICENSE ./docs/
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs

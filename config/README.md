@@ -1,38 +1,13 @@
-# 配置内容介绍
+# 个人配置说明
 
-所有配置的介绍。
-
-## 目录
-
-- [目录](#目录)
-- [Notepad3](#notepad3)
-  - [themes](#themes)
-  - [Register right-click menu.reg](#register-right-click-menureg)
-- [Banizip.reg](#banizipreg)
-- [SumatraPDF.txt](#sumatrapdftxt)
-- [pakku.json](#pakkujson)
-- [tampermonkey.zip](#tampermonkeyzip)
-- [stylus.json](#stylusjson)
-- [snipaste.ini](#snipasteini)
-- [TrafficMonitor](#trafficmonitor)
-- [v2rayN.txt](#v2rayntxt)
-- [ClashForWindows](#clashforwindows)
-- [neatdownloadmanager.json](#neatdownloadmanagerjson)
-- [memreduct.ini](#memreductini)
+所有提供个人配置的说明
 
 ## Notepad3
 
-### themes
-
-内容是 Notepad3 的主题配色配置文件。
-
-来源： [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme)。
-
-### Register right-click menu.reg
-
-Windows 的注册表文件，用于给 Notepad3 注册单文件右键打开选项。
-
-备注：要求 Notepad3 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。
+|             名称              |                              说明                              |                                            备注                                             |
+| :---------------------------: | :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|            themes             |              内容是 Notepad3 的主题配色配置文件。              |      [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme)      |
+| Register right-click menu.reg | Windows 的注册表文件，用于给 Notepad3 注册单文件右键打开选项。 | 要求 Notepad3 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。 |
 
 ## Banizip.reg
 
@@ -81,3 +56,11 @@ neatdownloadmanager 的 menifest.json 文件，用于不在哔哩哔哩网站上
 ## memreduct.ini
 
 memreduct 的 个人配置文件。
+
+## cmd_init.bat
+
+cmd 启动加载的个人配置文件。
+
+## Microsoft.PowerShell_profile.ps1
+
+PowerShell 启动加载的个人配置文件。

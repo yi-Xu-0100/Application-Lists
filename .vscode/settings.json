@@ -31,5 +31,13 @@
     "tampermonkeyzip",
     "trafficmonitor"
   ],
-  "cSpell.ignoreWords": ["arfv", "peaceiris", "yanglbme"]
+  "cSpell.ignoreWords": [
+    "arfv",
+    "cmd",
+    "initbat",
+    "microsoftpowershell",
+    "peaceiris",
+    "profileps",
+    "yanglbme"
+  ]
 }

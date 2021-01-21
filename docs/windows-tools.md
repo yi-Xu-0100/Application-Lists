@@ -83,8 +83,14 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 
 ## 实用工具类
 
-|     名称      | 需要安装 | 配置文件 | 备注 |
-| :-----------: | :------: | :------: | :--: |
-| [NewFileTime] |          |          |      |
+|                名称                | 需要安装 |                  配置文件                   | 备注 |
+| :--------------------------------: | :------: | :-----------------------------------------: | :--: |
+|           [NewFileTime]            |          |                                             |      |
+|           [cmd_init.bat]           |          |           [cmd_init.bat 配置说明]           |      |
+| [Microsoft.PowerShell_profile.ps1] |          | [Microsoft.PowerShell_profile.ps1 配置说明] |      |
 
 [newfiletime]: http://www.softwareok.com/?Download=NewFileTime
+[cmd_init.bat]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#cmd_initbat
+[cmd_init.bat 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#cmd_initbat
+[microsoft.powershell_profile.ps1]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration##microsoftpowershell_profileps1
+[microsoft.powershell_profile.ps1 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration##microsoftpowershell_profileps1
