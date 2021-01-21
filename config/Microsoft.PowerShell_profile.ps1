@@ -4,7 +4,7 @@ $Env:https_proxy = "socks5://127.0.0.1:7890";
 $env:LC_ALL = 'C.UTF-8';
 function prettier_write_all {
   if ((Test-Path "./.prettierrc.json") -and (Test-Path "./.prettierignore")) {
-    prettier --write "**/*.{json,js,yml,md}"
+    prettier --write "**/*.{json,js,yml,yaml,md}"
   }
   elseif ((Test-Path "./.prettierrc.json") -and !(Test-Path "./.prettierignore")) {
     prettier --ignore-path "D://Applications/.prettierignore" --write "**/*.{json,js,yml,yaml,md}"
