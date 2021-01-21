@@ -1,0 +1,44 @@
+{
+  "name": "application-lists",
+  "version": "1.0.0",
+  "description": "personal application lists.",
+  "scripts": {
+    "lint-check": "prettier --check **/*.{js,yml,yaml,json,md}",
+    "format": "prettier --write **/*.{js,yml,yaml,json,md}",
+    "clear": "cd ./docs/ && shx rm -rf _sidebar.md config.md index.html LICENSE README.md && cd ../",
+    "copy": "shx cp .docsify/* ./docs/ && shx cp ./config/README.md ./docs/config.md && shx cp README.md ./docs/README.md && shx cp LICENSE ./docs/LICENSE",
+    "start": "npm run copy && docsify serve docs"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo 'pre-commit...' && lint-staged && npm run clear && npm run lint-check"
+    }
+  },
+  "lint-staged": {
+    "**/*.{md,json,yml,yaml}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yi-Xu-0100/Application-Lists.git"
+  },
+  "keywords": [
+    "windows",
+    "application"
+  ],
+  "author": "yi_Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yi-Xu-0100/Application-Lists/issues"
+  },
+  "homepage": "https://github.com/yi-Xu-0100/Application-Lists#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.2",
+    "husky": "^4.3.6",
+    "lint-staged": "^10.5.3",
+    "prettier": "2.2.1",
+    "shx": "^0.3.2"
+  }
+}

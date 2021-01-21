@@ -113,14 +113,14 @@ pacContentText: |-
   function FindProxyForURL(url, host) {
     return Socks5 + Proxy + Direct;
   }
-shortcutSystemProxy: ""
-shortcutMixin: ""
+shortcutSystemProxy: ''
+shortcutMixin: ''
 editor: 1
 showProxyFilter: true
-shortcutGlobalMode: ""
-shortcutRuleMode: ""
+shortcutGlobalMode: ''
+shortcutRuleMode: ''
 hideAfterStartup: true
-proxyItemWidth: ""
+proxyItemWidth: ''
 childProcessText: |-
   processes: # array
     - command: subconverter.exe  # 程序名称
