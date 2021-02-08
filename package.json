@@ -37,7 +37,7 @@
   "devDependencies": {
     "docsify-cli": "^4.4.2",
     "husky": "^4.3.6",
-    "lint-staged": "^10.5.3",
+    "lint-staged": "^10.5.4",
     "prettier": "2.2.1",
     "shx": "^0.3.2"
   }
