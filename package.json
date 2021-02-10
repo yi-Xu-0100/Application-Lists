@@ -36,7 +36,7 @@
   "homepage": "https://github.com/yi-Xu-0100/Application-Lists#readme",
   "devDependencies": {
     "docsify-cli": "^4.4.2",
-    "husky": "^4.3.6",
+    "husky": "^5.0.9",
     "lint-staged": "^10.5.4",
     "prettier": "2.2.1",
     "shx": "^0.3.2"
