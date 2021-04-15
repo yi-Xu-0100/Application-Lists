@@ -64,3 +64,7 @@ cmd 启动加载的个人配置文件。
 ## Microsoft.PowerShell_profile.ps1
 
 PowerShell 启动加载的个人配置文件。
+
+## TranslucentTB.cfg
+
+TranslucentTB 的配置文件。
