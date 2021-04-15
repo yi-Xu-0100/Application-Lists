@@ -73,6 +73,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |      [网易云音乐]       |    ✔     |          账号同步          |      |
 |       [百度网盘]        |    ✔     |          账号同步          |      |
 |       [memreduct]       |    ✔     |    [memreduct 配置说明]    |      |
+|     [TranslucentTB]     |    ✔     |  [TranslucentTB 配置说明]  |      |
 
 [snipaste]: https://zh.snipaste.com/
 [snipaste 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#snipasteini
@@ -86,3 +87,5 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [百度网盘]: https://pan.baidu.com/download
 [memreduct]: https://github.com/henrypp/memreduct
 [memreduct 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#memreductini
+[translucenttb]: https://github.com/TranslucentTB/TranslucentTB
+[translucenttb 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#translucenttbcfg
