@@ -29,7 +29,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |        [soulsign-chrome]        |    ✔     |     [个人开发脚本安装地址]     | [公共脚本发布平台] |
 | [OneTab Plus: 标签效率管理扩展] |    ✔     |                                |                    |
 |           [沙拉查词]            |    ✔     |       [沙拉查词配置说明]       |                    |
-|          [Get Favicon]          |    ✔     |                                |                    |
+|        ~~[Get Favicon]~~        |    ❌    |                                |     插件被删除     |
 |         [Tampermonkey]          |    ✔     |  [tampermonkey.zip 配置说明]   |                    |
 |           [GitMaster]           |    ✔     |                                |                    |
 |             [简悦]              |    ✔     |             云同步             |                    |
@@ -39,6 +39,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |            [Stylus]             |    ✔     |       [Stylus 配置说明]        |                    |
 |          [广告终结者]           |    ✔     |                                |                    |
 |      [neatdownloadmanager]      |    ✔     | [neatdownloadmanager 配置说明] |                    |
+|       [HTTPS Everywhere]        |    ✔     |                                |                    |
 
 [soulsign-chrome]: https://github.com/inu1255/soulsign-chrome
 [个人开发脚本安装地址]: https://soulsign.inu1255.cn/?uid=1176
@@ -60,6 +61,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [广告终结者]: https://www.adtchrome.com/
 [neatdownloadmanager]: https://www.neatdownloadmanager.com/
 [neatdownloadmanager 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#neatdownloadmanagerjson
+[https everywhere]: https://github.com/efforg/https-everywhere
 
 ## 工具类
 
