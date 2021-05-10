@@ -39,7 +39,7 @@
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
     "marked": "^2.0.3",
-    "prettier": "2.2.1",
+    "prettier": "2.3.0",
     "shx": "^0.3.2"
   }
 }
