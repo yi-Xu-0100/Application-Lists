@@ -28,12 +28,7 @@
   "manifest_version": 2,
   "offline_enabled": false,
   "name": "NeatDownloadManager Extension",
-  "web_accessible_resources": [
-    "img/icon16.png",
-    "img/icon16_2x.png",
-    "img/close16.png",
-    "img/close16_2x.png"
-  ],
+  "web_accessible_resources": ["img/icon16.png", "img/icon16_2x.png", "img/close16.png", "img/close16_2x.png"],
   "permissions": [
     "\u003Call_urls>",
     "cookies",
