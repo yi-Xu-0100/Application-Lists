@@ -7,12 +7,6 @@
 1. [`theme/`](./Notepad3/themes/) 内容是 [`Notepad3`](https://github.com/rizonesoft/Notepad3) 的主题配色配置文件，来自[`maboroshin/Notepad3ColorTheme`](https://github.com/maboroshin/Notepad3ColorTheme)。
 2. [`register-right-click-menu.reg`](./notepad3/register-right-click-menu.reg) 是 `Windows` 的注册表文件，用于给 `Notepad3` 注册单文件右键打开选项。要求 `Notepad3` 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。
 
-## Banizip.reg
-
-[Banizip6.29](https://www.bandisoft.com/bandizip/old/6/) 的配置文件。
-
-备注：Banizip 在 7.x 后有广告，故配置文件中默认选择**不接受更新通知**。
-
 ## SumatraPDF.txt
 
 SumatraPDF 的配置文件。
