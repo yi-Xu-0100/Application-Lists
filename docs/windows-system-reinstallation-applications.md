@@ -36,8 +36,10 @@ windows 重装应用列表主要集中在可用性上，以最小使用单位为
 |       名称        | 需要安装 | 配置文件 | 备注 |
 | :---------------: | :------: | :------: | :--: |
 | [geekuninstaller] |          |          |      |
+|     [peaZip]      |    ✔     |          |      |
 
 [geekuninstaller]: https://geekuninstaller.com/download
+[peazip]: https://github.com/peazip/PeaZip
 
 ## 特殊自用类
 
