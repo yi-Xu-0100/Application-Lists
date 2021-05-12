@@ -4,8 +4,8 @@
 
 ## Notepad3
 
-1. [`theme/`](./Notepad3/themes/) 内容是 [`Notepad3`](https://github.com/rizonesoft/Notepad3) 的主题配色配置文件，来自[`maboroshin/Notepad3ColorTheme`](https://github.com/maboroshin/Notepad3ColorTheme)。
-2. [`register-right-click-menu.reg`](./notepad3/register-right-click-menu.reg) 是 `Windows` 的注册表文件，用于给 `Notepad3` 注册单文件右键打开选项。要求 `Notepad3` 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。
+1. [`theme/`](https://github.com/yi-Xu-0100/Application-Lists/tree/main/config/Notepad3) 内容是 [`Notepad3`](https://github.com/rizonesoft/Notepad3) 的主题配色配置文件，来自[`maboroshin/Notepad3ColorTheme`](https://github.com/maboroshin/Notepad3ColorTheme)。
+2. [`register-right-click-menu.reg`](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/register-right-click-menu.reg) 是 `Windows` 的注册表文件，用于给 `Notepad3` 注册单文件右键打开选项。**要求 `Notepad3` 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。**
 
 ## SumatraPDF.txt
 
@@ -29,7 +29,7 @@ snipaste 的配置文件。
 
 ## TrafficMonitor
 
-[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor)。
+[`TrafficMonitor`](https://github.com/zhongyang219/TrafficMonitor) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor)。
 
 ## v2rayN.txt
 
@@ -37,7 +37,7 @@ v2rayN 中设置的个人自定义 pac 配置。
 
 ## ClashForWindows
 
-[ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg) 的界面配置。
+[`clash_for_windows_pkg`](https://github.com/Fndroid/clash_for_windows_pkg) 的界面配置。
 
 **请注意以下几点，没有提到可提 [`issue`](https://github.com/yi-Xu-0100/Application-Lists/issues)。**
 
