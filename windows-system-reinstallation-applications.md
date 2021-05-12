@@ -33,14 +33,13 @@ windows 重装应用列表主要集中在可用性上，以最小使用单位为
 
 ## 工具类
 
-|       名称        | 需要安装 |      配置文件      |    备注    |
-| :---------------: | :------: | :----------------: | :--------: |
-|     [Banizip]     |    ✔     | [Banizip 配置说明] | Banizip6.9 |
-| [geekuninstaller] |          |                    |            |
+|       名称        | 需要安装 | 配置文件 | 备注 |
+| :---------------: | :------: | :------: | :--: |
+| [geekuninstaller] |          |          |      |
+|     [peaZip]      |    ✔     |          |      |
 
-[banizip]: https://www.bandisoft.com/bandizip/
-[banizip 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#banizipreg
 [geekuninstaller]: https://geekuninstaller.com/download
+[peazip]: https://github.com/peazip/PeaZip
 
 ## 特殊自用类
 

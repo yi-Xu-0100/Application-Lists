@@ -81,7 +81,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [snipaste 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#snipasteini
 [天若 ocr 文字识别]: https://tianruoocr.cn/
 [trafficmonitor]: https://github.com/zhongyang219/TrafficMonitor/releases
-[trafficmonitor 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#TrafficMonitor
+[trafficmonitor 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=trafficmonitor
 [clash_for_windows_pkg]: https://github.com/Fndroid/clash_for_windows_pkg/releases
 [clashforwindows 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#clashforwindows
 [qq 影音]: https://player.qq.com/
