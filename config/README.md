@@ -29,7 +29,7 @@ snipaste 的配置文件。
 
 ## TrafficMonitor
 
-TrafficMonitor 的配置文件。
+[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor)。
 
 ## v2rayN.txt
 
