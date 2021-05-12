@@ -16,7 +16,7 @@ profileParsersText: |
     - reg: ^((?!www\.example\.com).)*$
       file: 'D:/Applications/cfw-scripts/scripts/auto-check-in.js'
 selectAfterUpdated: false
-profilePath: C:\Users\xjy12\.config\clash\profiles
+profilePath: '%HOMEPATH%\.config\clash\profiles' # 此处需要更改！！！
 headersText: |
   headers: # object
 mixinCode: |-

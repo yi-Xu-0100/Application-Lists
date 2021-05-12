@@ -4,10 +4,8 @@
 
 ## Notepad3
 
-|             名称              |                              说明                              |                                            备注                                             |
-| :---------------------------: | :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|            themes             |              内容是 Notepad3 的主题配色配置文件。              |      [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme)      |
-| Register right-click menu.reg | Windows 的注册表文件，用于给 Notepad3 注册单文件右键打开选项。 | 要求 Notepad3 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。 |
+1. [`theme/`](./Notepad3/themes/) 内容是 [`Notepad3`](https://github.com/rizonesoft/Notepad3) 的主题配色配置文件，来自[`maboroshin/Notepad3ColorTheme`](https://github.com/maboroshin/Notepad3ColorTheme)。
+2. [`register-right-click-menu.reg`](./notepad3/register-right-click-menu.reg) 是 `Windows` 的注册表文件，用于给 `Notepad3` 注册单文件右键打开选项。要求 `Notepad3` 的安装位置在 `D:\\Applications\\Notepad3\\Notepad3.exe`，可编辑该文件以适配。
 
 ## Banizip.reg
 
@@ -45,9 +43,13 @@ v2rayN 中设置的个人自定义 pac 配置。
 
 ## ClashForWindows
 
-ClashForWindows 的个人配置。
+[ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg) 的界面配置。
 
-**注意：** 正则匹配请自行修改适配
+**请注意以下几点，没有提到可提 [`issue`](https://github.com/yi-Xu-0100/Application-Lists/issues)。**
+
+1. 文件中的 `profilePath` 为无法使用的路径，使用配置后，需要在软件中选择自己的配置文件并重启软件！
+2. `parsers` 默认启用，脚本均来自 [`yi-Xu-0100/cfw-script`](https://github.com/yi-Xu-0100/cfw-scripts)，请自行适配！
+3. `childProcess` 默认启动 [`subconverter`](https://github.com/tindy2013/subconverter)，请自行适配！
 
 ## neatdownloadmanager.json
 
