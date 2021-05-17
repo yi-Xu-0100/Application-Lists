@@ -7,7 +7,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |          名称           | 需要安装 | 配置文件 |     备注     |
 | :---------------------: | :------: | :------: | :----------: |
 | [福昕 PDF 编辑器企业版] |    ✔     |          |  福昕 9.6.0  |
-|       [CAJViewer]       |    ✔     |          | CAJViewer7.2 |
+|       [CAJViewer]       |    ✔     |          | CAJViewer7.3 |
 |       [mathtype]        |    ✔     |          | mathtype6.9  |
 
 [福昕 pdf 编辑器企业版]: https://www.foxitsoftware.cn/pdf-editor/
@@ -18,28 +18,30 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 
 |    名称    | 需要安装 | 配置文件 | 备注 |
 | :--------: | :------: | :------: | :--: |
-| [telegram] |    ✔     | 账号同步 |
+| [telegram] |    ✔     | 账号同步 |      |
 
 [telegram]: https://telegram.org/apps
 
 ## 浏览器插件类
 
-|              名称               | 需要安装 |            配置说明            |        备注        |
-| :-----------------------------: | :------: | :----------------------------: | :----------------: |
-|        [soulsign-chrome]        |    ✔     |     [个人开发脚本安装地址]     | [公共脚本发布平台] |
-| [OneTab Plus: 标签效率管理扩展] |    ✔     |                                |                    |
-|           [沙拉查词]            |    ✔     |       [沙拉查词配置说明]       |                    |
-|        ~~[Get Favicon]~~        |    ❌    |                                |     插件被删除     |
-|         [Tampermonkey]          |    ✔     |  [tampermonkey.zip 配置说明]   |                    |
-|           [GitMaster]           |    ✔     |                                |                    |
-|             [简悦]              |    ✔     |             云同步             |                    |
-|             [简码]              |    ✔     |                                |                    |
-|    [Infinity 新标签页 (Pro)]    |    ✔     |            账号同步            |                    |
-|   [pakku 哔哩哔哩弹幕过滤器]    |    ✔     |        [pakku 配置说明]        |                    |
-|            [Stylus]             |    ✔     |       [Stylus 配置说明]        |                    |
-|          [广告终结者]           |    ✔     |                                |                    |
-|      [neatdownloadmanager]      |    ✔     | [neatdownloadmanager 配置说明] |                    |
-|       [HTTPS Everywhere]        |    ✔     |                                |                    |
+|              名称               | 需要安装 |          配置说明           |        备注        |
+| :-----------------------------: | :------: | :-------------------------: | :----------------: |
+|        [soulsign-chrome]        |    ✔     |   [个人开发脚本安装地址]    | [公共脚本发布平台] |
+| [OneTab Plus: 标签效率管理扩展] |    ✔     |                             |                    |
+|           [沙拉查词]            |    ✔     |     [沙拉查词配置说明]      |                    |
+|        ~~[Get Favicon]~~        |    ❌    |                             |     插件被删除     |
+|       [Tampermonkey BETA]       |    ✔     | [tampermonkey.zip 配置说明] |                    |
+|           [GitMaster]           |    ✔     |                             |                    |
+|             [简悦]              |    ✔     |           云同步            |                    |
+|             [简码]              |    ✔     |                             |                    |
+|    [Infinity 新标签页 (Pro)]    |    ✔     |          账号同步           |                    |
+|   [pakku 哔哩哔哩弹幕过滤器]    |    ✔     |      [pakku 配置说明]       |                    |
+|            [Stylus]             |    ✔     |      [Stylus 配置说明]      |                    |
+|          [广告终结者]           |    ✔     |                             |                    |
+|       [HTTPS Everywhere]        |    ✔     |                             |                    |
+|         [languagetool]          |    ✔     |                             |                    |
+|           [grammarly]           |    ✔     |                             |                    |
+|          [SingleFile]           |    ✔     |                             |                    |
 
 [soulsign-chrome]: https://github.com/inu1255/soulsign-chrome
 [个人开发脚本安装地址]: https://soulsign.inu1255.cn/?uid=1176
@@ -59,9 +61,10 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [stylus]: https://add0n.com/stylus.html
 [stylus 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#stylusjson
 [广告终结者]: https://www.adtchrome.com/
-[neatdownloadmanager]: https://www.neatdownloadmanager.com/
-[neatdownloadmanager 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#neatdownloadmanagerjson
 [https everywhere]: https://github.com/efforg/https-everywhere
+[languagetool]: https://languagetool.org/
+[grammarly]: https://app.grammarly.com/
+[singlefile]: https://github.com/gildas-lormeau/SingleFile
 
 ## 工具类
 
