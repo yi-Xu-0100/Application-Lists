@@ -15,6 +15,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 |      [SumatraPDF]       |    ✔     | [SumatraPDF 配置说明] |                   |
 |       [为知笔记]        |    ✔     |       账号同步        |                   |
 |    [CopyTranslator]     |          |                       |                   |
+|       [TagSpace]        |          |                       |                   |
 
 [origin pro]: https://www.originlab.com/index.aspx?%20go=DOWNLOADS/OriginEvaluation
 [solidworks]: https://www.solidworks.com.cn/sw/support/downloads.htm
@@ -26,6 +27,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [sumatrapdf 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/
 [为知笔记]: https://www.wiz.cn/zh-cn/Configuration#sumatrapdftxt
 [copytranslator]: https://copytranslator.github.io/download/
+[tagspace]: https://github.com/tagspaces/tagspaces
 
 ## 编程类
 
