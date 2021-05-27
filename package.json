@@ -6,9 +6,7 @@
     "prepare": "husky install",
     "lint-check": "prettier --check **/*.{js,yml,yaml,json,md}",
     "format": "prettier --write **/*.{js,yml,yaml,json,md}",
-    "clear": "cd ./docs/ && shx rm -rf _sidebar.md config.md index.html LICENSE README.md && cd ../",
-    "copy": "shx cp .docsify/* ./docs/ && shx cp ./config/README.md ./docs/config.md && shx cp README.md ./docs/README.md && shx cp LICENSE ./docs/LICENSE",
-    "start": "npm run copy && docsify serve docs"
+    "start": "node init.js && docsify serve docs"
   },
   "lint-staged": {
     "**/*.{md,json,yml,yaml}": [
@@ -35,7 +33,6 @@
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
     "marked": "^2.0.5",
-    "prettier": "2.3.0",
-    "shx": "^0.3.2"
+    "prettier": "2.3.0"
   }
 }

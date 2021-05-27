@@ -14,10 +14,7 @@ jobs:
 
       - name: Move docsify configuration
         run: |
-          cp -arfv ./.docsify/*.* ./docs/
-          cp -afv ./README.md ./docs/
-          cp -afv ./config/README.md ./docs/config.md
-          cp -afv ./LICENSE ./docs/
+          node init.js
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
