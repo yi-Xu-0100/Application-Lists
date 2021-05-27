@@ -4,14 +4,15 @@ windows 重装应用列表主要集中在可用性上，以最小使用单位为
 
 ## 文档处理类
 
-|    名称    | 需要安装 |      配置文件       |    备注    |
-| :--------: | :------: | :-----------------: | :--------: |
-|  [office]  |    ✔     |                     | office2016 |
-| [Notepad3] |          | [Notepad3 配置说明] |            |
+|    名称    | 需要安装 |      配置文件       |             备注              |
+| :--------: | :------: | :-----------------: | :---------------------------: |
+|  [office]  |    ✔     |                     | [office 365 自选组件安装教程] |
+| [Notepad3] |          | [Notepad3 配置说明] |                               |
 
 [office]: https://www.office.com/
+[office 365 自选组件安装教程]: https://github.yixuju.cn/Application-Lists/#/office
 [notepad3]: https://www.rizonesoft.com/downloads/notepad3/
-[notepad3 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#notepad3
+[notepad3 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=notepad3
 
 ## 通讯类
 
