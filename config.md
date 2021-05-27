@@ -64,3 +64,7 @@ PowerShell 启动加载的个人配置文件。
 ## TranslucentTB.cfg
 
 TranslucentTB 的配置文件。
+
+## office
+
+[office 365 自选组件安装教程](https://github.yixuju.cn/Application-Lists/#/office)。
