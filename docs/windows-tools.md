@@ -90,7 +90,9 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 |           [NewFileTime]            |          |                                             |      |
 |           [cmd_init.bat]           |          |           [cmd_init.bat 配置说明]           |      |
 | [Microsoft.PowerShell_profile.ps1] |          | [Microsoft.PowerShell_profile.ps1 配置说明] |      |
+|         [geekuninstaller]          |          |                                             |      |
 
+[geekuninstaller]: https://geekuninstaller.com/download
 [newfiletime]: http://www.softwareok.com/?Download=NewFileTime
 [cmd_init.bat]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#cmd_initbat
 [cmd_init.bat 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#cmd_initbat
