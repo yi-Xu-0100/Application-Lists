@@ -34,12 +34,12 @@ windows 重装应用列表主要集中在可用性上，以最小使用单位为
 
 ## 工具类
 
-|       名称        | 需要安装 | 配置文件 | 备注 |
-| :---------------: | :------: | :------: | :--: |
-| [geekuninstaller] |          |          |      |
-|     [peaZip]      |    ✔     |          |      |
+|          名称          | 需要安装 | 配置文件 | 备注 |
+| :--------------------: | :------: | :------: | :--: |
+| [Revo Uninstaller Pro] |    ✔     |          |      |
+|        [peaZip]        |    ✔     |          |      |
 
-[geekuninstaller]: https://geekuninstaller.com/download
+[revo uninstaller pro]: https://www.revouninstaller.com/revo-uninstaller-free-download/
 [peazip]: https://github.com/peazip/PeaZip
 
 ## 特殊自用类
