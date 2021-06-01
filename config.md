@@ -17,7 +17,7 @@ pakku 的配置文件。
 
 ## tampermonkey.zip
 
-tampermonkey 的配置文件。
+[tampermonkey](https://www.tampermonkey.net/?ext=dhdg&browser=chrome) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip)。
 
 ## stylus.json
 

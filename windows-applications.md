@@ -48,8 +48,8 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [onetab plus: 标签效率管理扩展]: https://chrome.google.com/webstore/detail/onetab-plustab-manage-pro/lepdjbhbkpfenckechpdfohdmkhogojf
 [沙拉查词]: https://saladict.crimx.com/
 [沙拉查词配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=saladictjson
-[tampermonkey]: https://www.tampermonkey.net/
-[tampermonkey.zip 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#tampermonkeyzip
+[tampermonkey beta]: https://www.tampermonkey.net/?ext=dhdg&browser=chrome
+[tampermonkey 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=tampermonkeyzip
 [gitmaster]: https://github.com/ineo6/git-master
 [简悦]: http://ksria.com/simpread/
 [简码]: https://microsoftedge.microsoft.com/addons/detail/%E7%AE%80%E7%A0%81/dpgjdomgklccodklkokapnaehbocnmfo
