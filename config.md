@@ -68,3 +68,7 @@ TranslucentTB 的配置文件。
 ## office
 
 [office 365 自选组件安装教程](https://github.yixuju.cn/Application-Lists/#/office)。
+
+## saladict.json
+
+[沙拉查词](https://saladict.crimx.com/)的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/saladict.json)。
