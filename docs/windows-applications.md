@@ -29,7 +29,6 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |        [soulsign-chrome]        |    ✔     |   [个人开发脚本安装地址]    | [公共脚本发布平台] |
 | [OneTab Plus: 标签效率管理扩展] |    ✔     |                             |                    |
 |           [沙拉查词]            |    ✔     |     [沙拉查词配置说明]      |                    |
-|        ~~[Get Favicon]~~        |    ❌    |                             |     插件被删除     |
 |       [Tampermonkey BETA]       |    ✔     | [tampermonkey.zip 配置说明] |                    |
 |           [GitMaster]           |    ✔     |                             |                    |
 |             [简悦]              |    ✔     |           云同步            |                    |
@@ -48,8 +47,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [公共脚本发布平台]: https://soulsign.inu1255.cn/
 [onetab plus: 标签效率管理扩展]: https://chrome.google.com/webstore/detail/onetab-plustab-manage-pro/lepdjbhbkpfenckechpdfohdmkhogojf
 [沙拉查词]: https://saladict.crimx.com/
-[沙拉查词配置说明]: ./configuration/#tampermonkeyzip
-[get favicon]: https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe
+[沙拉查词配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=saladictjson
 [tampermonkey]: https://www.tampermonkey.net/
 [tampermonkey.zip 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#tampermonkeyzip
 [gitmaster]: https://github.com/ineo6/git-master
