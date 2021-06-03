@@ -25,7 +25,7 @@ stylus 的配置文件。
 
 ## snipaste.ini
 
-snipaste 的配置文件。
+[snipaste](https://zh.snipaste.com/) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/snipaste.ini)。
 
 ## TrafficMonitor
 
