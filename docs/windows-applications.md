@@ -68,16 +68,16 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 
 ## 工具类
 
-|          名称           | 需要安装 |          配置文件          | 备注 |
-| :---------------------: | :------: | :------------------------: | :--: |
-|       [Snipaste]        |    ✔     |    [Snipaste 配置说明]     |      |
-|   [天若 OCR 文字识别]   |    ✔     |          账号同步          |      |
-|    [TrafficMonitor]     |    ✔     | [TrafficMonitor 配置说明]  |      |
-| [clash_for_windows_pkg] |    ✔     | [ClashForWindows 配置说明] |      |
-|        [QQ 影音]        |    ✔     |                            |      |
-|      [网易云音乐]       |    ✔     |          账号同步          |      |
-|       [百度网盘]        |    ✔     |          账号同步          |      |
-|     [TranslucentTB]     |    ✔     |  [TranslucentTB 配置说明]  |      |
+|          名称           | 需要安装 |          配置文件          |          备注          |
+| :---------------------: | :------: | :------------------------: | :--------------------: |
+|       [Snipaste]        |    ✔     |    [Snipaste 配置说明]     |                        |
+|   [天若 OCR 文字识别]   |    ✔     |          账号同步          |                        |
+|    [TrafficMonitor]     |    ✔     | [TrafficMonitor 配置说明]  |                        |
+| [clash_for_windows_pkg] |    ✔     | [ClashForWindows 配置说明] |                        |
+|        [QQ 影音]        |    ✔     |                            |                        |
+|      [网易云音乐]       |    ✔     |          账号同步          |                        |
+|       [百度网盘]        |    ✔     |          账号同步          |                        |
+|     [TranslucentTB]     |    ✔     |  [TranslucentTB 配置说明]  | [TranslucentTB 中文版] |
 
 [snipaste]: https://zh.snipaste.com/
 [snipaste 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#snipasteini
@@ -90,4 +90,5 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [网易云音乐]: https://music.163.com/#/download
 [百度网盘]: https://pan.baidu.com/download
 [translucenttb]: https://github.com/TranslucentTB/TranslucentTB
-[translucenttb 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#translucenttbcfg
+[translucenttb 中文版]: https://github.com/tpxxn/TranslucentTB
+[translucenttb 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=translucenttbcfg

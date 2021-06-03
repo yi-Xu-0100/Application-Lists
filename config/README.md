@@ -63,7 +63,7 @@ PowerShell 启动加载的个人配置文件。
 
 ## TranslucentTB.cfg
 
-TranslucentTB 的配置文件。
+[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/translucenttb.cfg)。
 
 ## office
 
