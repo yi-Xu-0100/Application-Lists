@@ -24,23 +24,25 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 
 ## 浏览器插件类
 
-|              名称               | 需要安装 |          配置说明           |        备注        |
-| :-----------------------------: | :------: | :-------------------------: | :----------------: |
-|        [soulsign-chrome]        |    ✔     |   [个人开发脚本安装地址]    | [公共脚本发布平台] |
-| [OneTab Plus: 标签效率管理扩展] |    ✔     |                             |                    |
-|           [沙拉查词]            |    ✔     |     [沙拉查词配置说明]      |                    |
-|       [Tampermonkey BETA]       |    ✔     | [tampermonkey.zip 配置说明] |                    |
-|           [GitMaster]           |    ✔     |                             |                    |
-|             [简悦]              |    ✔     |           云同步            |                    |
-|             [简码]              |    ✔     |                             |                    |
-|    [Infinity 新标签页 (Pro)]    |    ✔     |          账号同步           |                    |
-|   [pakku 哔哩哔哩弹幕过滤器]    |    ✔     |      [pakku 配置说明]       |                    |
-|            [Stylus]             |    ✔     |      [Stylus 配置说明]      |                    |
-|          [广告终结者]           |    ✔     |                             |                    |
-|       [HTTPS Everywhere]        |    ✔     |                             |                    |
-|         [languagetool]          |    ✔     |                             |                    |
-|           [grammarly]           |    ✔     |                             |                    |
-|          [SingleFile]           |    ✔     |                             |                    |
+**注意: 此处插件可以通过浏览器账号同步设置。**
+
+|              名称               | 需要安装 |        配置说明         |        备注        |
+| :-----------------------------: | :------: | :---------------------: | :----------------: |
+|        [soulsign-chrome]        |    ✔     | [个人开发脚本安装地址]  | [公共脚本发布平台] |
+| [OneTab Plus: 标签效率管理扩展] |    ✔     |                         |                    |
+|           [沙拉查词]            |    ✔     |   [沙拉查词配置说明]    |                    |
+|       [Tampermonkey BETA]       |    ✔     | [tampermonkey 配置说明] |                    |
+|           [GitMaster]           |    ✔     |                         |                    |
+|             [简悦]              |    ✔     |         云同步          |                    |
+|             [简码]              |    ✔     |                         |                    |
+|    [Infinity 新标签页 (Pro)]    |    ✔     |        账号同步         |                    |
+|   [pakku 哔哩哔哩弹幕过滤器]    |    ✔     |    [pakku 配置说明]     |                    |
+|            [Stylus]             |    ✔     |    [Stylus 配置说明]    |                    |
+|          [广告终结者]           |    ✔     |                         |                    |
+|       [HTTPS Everywhere]        |    ✔     |                         |                    |
+|         [languagetool]          |    ✔     |                         |                    |
+|           [grammarly]           |    ✔     |                         |                    |
+|          [SingleFile]           |    ✔     |                         |                    |
 
 [soulsign-chrome]: https://github.com/inu1255/soulsign-chrome
 [个人开发脚本安装地址]: https://soulsign.inu1255.cn/?uid=1176
@@ -75,7 +77,6 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |        [QQ 影音]        |    ✔     |                            |      |
 |      [网易云音乐]       |    ✔     |          账号同步          |      |
 |       [百度网盘]        |    ✔     |          账号同步          |      |
-|       [memreduct]       |    ✔     |    [memreduct 配置说明]    |      |
 |     [TranslucentTB]     |    ✔     |  [TranslucentTB 配置说明]  |      |
 
 [snipaste]: https://zh.snipaste.com/
@@ -88,7 +89,5 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [qq 影音]: https://player.qq.com/
 [网易云音乐]: https://music.163.com/#/download
 [百度网盘]: https://pan.baidu.com/download
-[memreduct]: https://github.com/henrypp/memreduct
-[memreduct 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#memreductini
 [translucenttb]: https://github.com/TranslucentTB/TranslucentTB
 [translucenttb 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#translucenttbcfg

@@ -91,6 +91,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 |           [cmd_init.bat]           |          |           [cmd_init.bat 配置说明]           |      |
 | [Microsoft.PowerShell_profile.ps1] |          | [Microsoft.PowerShell_profile.ps1 配置说明] |      |
 |         [geekuninstaller]          |          |                                             |      |
+|            [memreduct]             |    ✔     |            [memreduct 配置说明]             |      |
 
 [geekuninstaller]: https://geekuninstaller.com/download
 [newfiletime]: http://www.softwareok.com/?Download=NewFileTime
@@ -98,3 +99,5 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [cmd_init.bat 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#cmd_initbat
 [microsoft.powershell_profile.ps1]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration##microsoftpowershell_profileps1
 [microsoft.powershell_profile.ps1 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration##microsoftpowershell_profileps1
+[memreduct]: https://github.com/henrypp/memreduct
+[memreduct 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=memreductini
