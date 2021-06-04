@@ -13,7 +13,7 @@ SumatraPDF 的配置文件。
 
 ## pakku.json
 
-pakku 的配置文件。
+[pakku](https://s.xmcp.ml/pakkujs/) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/pakku.json)。
 
 ## tampermonkey.zip
 
@@ -21,7 +21,7 @@ pakku 的配置文件。
 
 ## stylus.json
 
-stylus 的配置文件。
+[stylus](https://add0n.com/stylus.html) 的[配置文件](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/stylus.json)。
 
 ## snipaste.ini
 
