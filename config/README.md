@@ -59,7 +59,16 @@ cmd 启动加载的个人配置文件。
 
 ## Microsoft.PowerShell_profile.ps1
 
-PowerShell 启动加载的个人配置文件。
+[PowerShell](https://docs.microsoft.com/en-us/powershell/) 启动加载的个人配置文件。
+
+1. 安装 `posh-git`。
+
+   ```powershell
+   Install-Module posh-git -Scope CurrentUser
+   ```
+
+2. 使用 `$profile` 获得初始化脚本位置。
+3. 将 [Microsoft.PowerShell_profile.ps1](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1) 的内容加入初始化脚本中。
 
 ## TranslucentTB.cfg
 
