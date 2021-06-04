@@ -59,7 +59,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [pakku 哔哩哔哩弹幕过滤器]: https://s.xmcp.ml/pakkujs/
 [pakku 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=pakkujson
 [stylus]: https://add0n.com/stylus.html
-[stylus 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#stylusjson
+[stylus 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=stylusjson
 [广告终结者]: https://www.adtchrome.com/
 [https everywhere]: https://github.com/efforg/https-everywhere
 [languagetool]: https://languagetool.org/
