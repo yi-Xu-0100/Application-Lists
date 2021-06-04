@@ -78,6 +78,7 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 |      [网易云音乐]       |    ✔     |          账号同步          |                        |
 |       [百度网盘]        |    ✔     |          账号同步          |                        |
 |     [TranslucentTB]     |    ✔     |  [TranslucentTB 配置说明]  | [TranslucentTB 中文版] |
+|      [PowerShell]       |    ❌    |   [PowerShell 配置说明]    |                        |
 
 [snipaste]: https://zh.snipaste.com/
 [snipaste 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=snipasteini
@@ -92,3 +93,5 @@ windows 必备应用列表是个人重装电脑后会安装的应用。
 [translucenttb]: https://github.com/TranslucentTB/TranslucentTB
 [translucenttb 中文版]: https://github.com/tpxxn/TranslucentTB
 [translucenttb 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=translucenttbcfg
+[powershell]: https://docs.microsoft.com/en-us/powershell/
+[powershell 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=microsoftpowershell_profileps1
