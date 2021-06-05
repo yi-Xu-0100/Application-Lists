@@ -6,7 +6,7 @@
     "prepare": "husky install",
     "lint-check": "prettier --check **/*.{js,yml,yaml,json,md}",
     "format": "prettier --write **/*.{js,yml,yaml,json,md}",
-    "start": "node init.js && docsify serve docs"
+    "start": "node init.js && docsify serve server"
   },
   "lint-staged": {
     "**/*.{md,json,yml,yaml}": [

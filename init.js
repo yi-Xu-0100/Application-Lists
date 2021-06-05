@@ -9,27 +9,36 @@ function init(file) {
 files = [
   {
     src: './README.md',
-    dist: './docs/README.md',
+    dist: './server/README.md',
   },
   {
     src: './LICENSE',
-    dist: './docs/LICENSE',
+    dist: './server/LICENSE',
   },
   {
     src: './.docsify/_sidebar.md',
-    dist: './docs/_sidebar.md',
+    dist: './server/_sidebar.md',
   },
   {
     src: './.docsify/index.html',
-    dist: './docs/index.html',
+    dist: './server/index.html',
   },
   {
     src: './config/README.md',
-    dist: './docs/config.md',
+    dist: './server/config.md',
   },
   {
-    src: './config/office/README.md',
-    dist: './docs/office.md',
+    src: './docs/windows-applications.md',
+    dist: './server/windows-applications.md',
+  },
+  {
+    src: './docs/windows-system-reinstallation-applications.md',
+    dist: './server/windows-system-reinstallation-applications.md',
+  },
+  {
+    src: './docs/windows-tools.md',
+    dist: './server/windows-tools.md',
   },
 ];
+
 files.forEach((file) => init(file));
