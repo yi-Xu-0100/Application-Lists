@@ -24,7 +24,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [noteexpress]: http://www.inoteexpress.com/aegean/index.php/home/ne/index.html
 [zemax]: https://www.zemax.com/
 [sumatrapdf]: https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
-[sumatrapdf 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/
+[sumatrapdf 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=sumatrapdftxt
 [为知笔记]: https://www.wiz.cn/zh-cn/Configuration#sumatrapdftxt
 [copytranslator]: https://copytranslator.github.io/download/
 [tagspace]: https://github.com/tagspaces/tagspaces
