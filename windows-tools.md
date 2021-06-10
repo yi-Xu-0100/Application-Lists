@@ -1,5 +1,10 @@
 # windows 普通工具列表
 
+- [工作类](#工作类)
+- [编程类](#编程类)
+- [生活娱乐类](#生活娱乐类)
+- [实用工具类](#实用工具类)
+
 windows 普通工具列表中主要包含不常用的工具或者可选择安装的应用。
 
 ## 工作类
@@ -55,7 +60,7 @@ windows 普通工具列表中主要包含不常用的工具或者可选择安装
 [node.js]: https://nodejs.org/zh-cn/
 [python]: https://www.python.org/downloads/windows/
 [v2rayn]: https://github.com/2dust/v2rayN/releases
-[v2rayn 配置说明]: https://github.com/yi-Xu-0100/Application-Lists/tree/master/Configuration#v2rayntxt
+[v2rayn 配置说明]: https://github.yixuju.cn/Application-Lists/#/config?id=v2rayntxt
 [everything]: https://www.voidtools.com/zh-cn/
 
 ## 生活娱乐类
