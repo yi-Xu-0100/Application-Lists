@@ -36,6 +36,6 @@
     "prettier": "2.3.2",
     "ws": ">=7.5.2",
     "normalize-url": ">=4.5.1",
-    "prismjs": ">=1.24.0"
+    "prismjs": ">=1.24.1"
   }
 }
