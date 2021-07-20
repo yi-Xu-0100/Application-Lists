@@ -37,13 +37,23 @@ v2rayN 中设置的个人自定义 pac 配置。
 
 ## ClashForWindows
 
-[`clash_for_windows_pkg`](https://github.com/Fndroid/clash_for_windows_pkg) 的界面配置。
+### cfw-settings.yaml
+
+[`clash_for_windows_pkg`](https://github.com/Fndroid/clash_for_windows_pkg) 的界面配置 - [`cfw-settings.yaml`](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml)。
 
 **请注意以下几点，没有提到可提 [`issue`](https://github.com/yi-Xu-0100/Application-Lists/issues)。**
 
 1. 文件中的 `profilePath` 为无法使用的路径，使用配置后，需要在软件中选择自己的配置文件并重启软件！
 2. `parsers` 默认启用，脚本均来自 [`yi-Xu-0100/cfw-script`](https://github.com/yi-Xu-0100/cfw-scripts)，请自行适配！
 3. `childProcess` 默认启动 [`subconverter`](https://github.com/tindy2013/subconverter)，请自行适配！
+
+### mixin.yaml
+
+[`mixin`](https://docs.cfw.lbyczf.com/contents/mixin.html) 配置片段的[示例](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml)。
+
+### parser.yaml
+
+[`parser`](https://docs.cfw.lbyczf.com/contents/parser.html) 配置片段的[示例](https://github.com/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml)。
 
 ## neatdownloadmanager.json
 

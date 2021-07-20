@@ -1,0 +1,33 @@
+# parser 示例片段
+parser:
+  - reg: '^.*subconverter.herokuapp.com.*$'
+    code: |
+      module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url, interval, selected }) => {
+        const obj = yaml.parse(raw);
+        for (const proxy_group of obj['proxy-groups']) {
+          if(proxy_group['name'] === '♻️ 自动选择') {
+            proxy_group['proxies'] = proxy_group['proxies'].filter(name=>name.indexOf('UnblockMusic') === -1);
+          }
+        }
+        return yaml.stringify(obj);
+      }
+  - reg: '^.*$'
+    code: |
+      const exec = require('util').promisify(require('child_process').exec);
+      module.exports.parse = async (raw, { console }, { url }) => {
+        const { stdout: output } = await exec(
+          `curl -H "User-Agent:Quantumult%20X/1.0.23 (iPhone12,3; iOS 14.6)" -I "${url}"`
+        );
+        console.log(output.toLowerCase());
+        if (/subscription-userinfo:\s(.+?)[\r\n]/.test(output.toLowerCase())) {
+          return `# ${RegExp.$1.trim()};\n${raw}`;
+        }
+        return raw;
+      };
+  - reg: '^.*subconverter.herokuapp.com.*$'
+    yaml:
+      prepend-rules:
+        - DOMAIN-SUFFIX,gvt1.com,♻️ 自动选择 # rules最前面增加一个规则
+        - DOMAIN-SUFFIX,dl.google.com,♻️ 自动选择 # rules最前面增加一个规则
+        - DOMAIN-SUFFIX,addthis.com,♻️ 自动选择 # rules最前面增加一个规则
+        # - DOMAIN-SUFFIX,bilivideo.cn,REJECT # rules最前面增加一个规则

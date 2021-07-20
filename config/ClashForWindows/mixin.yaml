@@ -1,0 +1,58 @@
+# mixin 示例片段
+mixin: # object
+  dns:
+    enable: true # 是否启用dns false
+    ipv6: true
+    #listen: 0.0.0.0:53
+    enhanced-mode: redir-host # 模式：redir-host或fake-ip
+    fake-ip-range: 198.18.0.1/16
+    fake-ip-filter: # fake ip 白名单列表，如果你不知道这个参数的作用，请勿修改
+      - '*.lan'
+      - localhost.ptlogin2.qq.com
+    default-nameserver:
+      - 223.5.5.5 # 阿里DNS
+      - 180.76.76.76 # 百度DNS
+      - 119.29.29.29 # 腾讯DNS
+      - 114.114.114.114 # 114DNS
+      - 1.0.0.1
+    nameserver:
+      - 223.5.5.5 # 阿里DNS
+      - 180.76.76.76 # 百度DNS
+      - 119.29.29.29 # 腾讯DNS
+      - 117.50.11.11 # ONE DNS拦截版 恶意网站拦截、广告过滤
+      - 117.50.10.10 # ONE DNS纯净版 直接返回其真实的响应结果
+      - 114.114.114.114 # 114DNS
+      - 8.8.8.8
+      - 1.1.1.1
+    fallback:
+      - 8.8.8.8 # 谷歌DNS
+      - 1.1.1.1 # Cloudflare DNS
+      - tls://dns.rubyfish.cn:853
+      - tls://1.0.0.1:853
+      - tls://dns.google:853
+      - https://dns.rubyfish.cn/dns-query
+      - https://cloudflare-dns.com/dns-query
+      - https://dns.google/dns-query
+    fallback-filter:
+      geoip: true # 默认
+      ipcidr:
+        - 240.0.0.0/4
+        - 0.0.0.0/32
+        - 127.0.0.1/32
+      domain:
+        - +.google.com
+        - +.facebook.com
+        - +.twitter.com
+        - +.youtube.com
+        - +.xn--ngstr-lra8j.com
+        - +.google.cn
+        - +.googleapis.cn
+        - +.gvt1.com
+  # interface-name: 以太网
+  tun:
+    enable: true
+    stack: gvisor # system
+    dns-hijack:
+      - 198.18.0.2:53
+    auto-route: true
+    auto-detect-interface: true # 自动检测出口网卡
