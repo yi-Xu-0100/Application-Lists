@@ -35,7 +35,7 @@
     "marked": "^4.0.19",
     "normalize-url": ">=7.0.3",
     "prettier": "2.7.1",
-    "prismjs": ">=1.28.0",
+    "prismjs": ">=1.29.0",
     "ws": ">=8.8.1"
   }
 }
