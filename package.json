@@ -34,7 +34,7 @@
     "lint-staged": "^13.1.0",
     "marked": "^4.2.3",
     "normalize-url": ">=8.0.0",
-    "prettier": "2.8.0",
+    "prettier": "2.8.1",
     "prismjs": ">=1.29.0",
     "ws": ">=8.11.0"
   }
