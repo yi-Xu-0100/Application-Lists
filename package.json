@@ -30,7 +30,7 @@
   "homepage": "https://github.com/yi-Xu-0100/Application-Lists#readme",
   "devDependencies": {
     "docsify-cli": "^4.4.4",
-    "husky": "^8.0.2",
+    "husky": "^8.0.3",
     "lint-staged": "^13.1.0",
     "marked": "^4.2.5",
     "normalize-url": ">=8.0.0",
