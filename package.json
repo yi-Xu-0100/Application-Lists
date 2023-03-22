@@ -32,7 +32,7 @@
     "docsify-cli": "^4.4.4",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
-    "marked": "^4.2.5",
+    "marked": "^4.3.0",
     "normalize-url": ">=8.0.0",
     "prettier": "2.8.6",
     "prismjs": ">=1.29.0",
